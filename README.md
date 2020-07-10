@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Open Source Contribution.
 
-- 📫 How to reach me: email: jyotijauhari222@gmail.com
+- 📫 How to reach me: email: jyotijauhari222@gmail.com,  
    [Linkedin:Jyoti Jauhari](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁 , 
