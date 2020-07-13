@@ -1,6 +1,7 @@
 
 ### Hi there 👋  I am  Jyoti Jauhari
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)](https://github.com/JyotiJauhari) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JyotiJauhari) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JyotiJauhari)
 <!--
 **JyotiJauhari/JyotiJauhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,8 +22,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Open Source Contribution.
 
-- 📫 How to reach me: email: jyotijauhari222@gmail.com,  
-   [Linkedin:Jyoti Jauhari](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)
+<!-- - 😄 Pronouns: ... - 📫 How to reach me: email: jyotijauhari222@gmail.com,  
+   [Linkedin:Jyoti Jauhari](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/) -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁 , 
    Loves talk on tech 😄💻.
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)(https://github.com/JyotiJauhari)
