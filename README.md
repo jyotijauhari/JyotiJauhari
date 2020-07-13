@@ -27,4 +27,7 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁 , 
    Loves talk on tech 😄💻.
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)(https://github.com/JyotiJauhari)
+- 📫 How to reach me: 
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)
