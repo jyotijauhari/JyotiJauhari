@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - ⚡ Keenly interested in learning new technologies 👩‍💻  and always open to new opportunities.
 
-- Take my first step in Open Source with GSSoC 2020 as Participant and Campus Ambassador. ⭐
+- Took my first step in Open Source with GSSoC 2020 as Participant and Campus Ambassador. ⭐
 
 - 🔭 I’m currently working as Mentor as SCI 2020, Open-Source Contributor as PSoC Summer of Code, Technical Intern at Cloud Conselage.
 
