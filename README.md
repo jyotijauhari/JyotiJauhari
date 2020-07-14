@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - Took my first step in Open Source with GSSoC 2020 as Participant and Campus Ambassador. ⭐
 
-- 🔭 I’m currently working as Mentor as SCI 2020, Open-Source Contributor as PSoC Summer of Code, Technical Intern at Cloud Conselage.
+- 🔭 I’m currently working as Project Mentor as SCI 2020, Open-Source Contributor as PSoC Summer of Code, Technical Intern at Cloud Conselage.
 
 - 🌱 I’m currently learning Android Development 👩‍💻✨
 
