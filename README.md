@@ -5,9 +5,10 @@
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)](https://github.com/JyotiJauhari) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JyotiJauhari) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JyotiJauhari)
 <!--
 **JyotiJauhari/JyotiJauhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
+
+- ⚡Loves Healthy Competition 👩‍💻 Lets have one!
 
 - ⚡ Keenly interested in learning new technologies 👩‍💻  and always open to new opportunities.
 
