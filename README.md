@@ -2,9 +2,10 @@
 ### Hi there 👋  I am  Jyoti Jauhari
 
 
-<!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)]-->
+<!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)](https://github.com/JyotiJauhari)-->
 
-(https://github.com/JyotiJauhari) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JyotiJauhari) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JyotiJauhari)
+ [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JyotiJauhari) 
+ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JyotiJauhari)
 
 <!--
 **JyotiJauhari/JyotiJauhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,9 +37,8 @@ Here are some ideas to get you started:
 
 
 
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/) -->
+<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)-->
 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=JyotiJauhari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+![Jyoti's github stats](https://github-readme-stats.vercel.app/api?username=JyotiJauhari&show_icons=true&hide_border=true)
