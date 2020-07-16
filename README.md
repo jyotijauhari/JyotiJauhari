@@ -6,8 +6,9 @@
 
  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JyotiJauhari) 
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JyotiJauhari)
-[![HitCount](http://hits.dwyl.com/JyotiJauhari/
-abhinavsri360.svg)](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari)
+[![HitCount](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari.svg)](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari)
+
+
 <!--
 **JyotiJauhari/JyotiJauhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
