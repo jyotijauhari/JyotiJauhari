@@ -1,5 +1,5 @@
 
-### Hi there 👋  I am  Jyoti Jauhari
+### Hi there 👋 I am  Jyoti Jauhari
 
 
 <!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)](https://github.com/JyotiJauhari)
