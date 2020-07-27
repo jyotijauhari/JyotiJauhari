@@ -15,7 +15,7 @@
 Here are some ideas to get you started:
 -->
 
-- ⚡Loves Healthy Competition 👩‍💻 Lets have one!
+<!-- ⚡Loves Healthy Competition 👩‍💻 Lets have one! -->
 
 - ⚡ Keenly interested in learning new technologies 👩‍💻  and always open to new opportunities.
 
