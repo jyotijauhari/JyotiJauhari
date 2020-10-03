@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ⚡Loves Healthy Competition 👩‍💻 Lets have one! -->
-<img align="centre" alt="GIF" src="https://github.com/JyotiJauhari/JyotiJauhari/blob/master/gif/Code.gif" width="400px" height = "200px" />
+<img align="centre" alt="GIF" src="https://github.com/JyotiJauhari/JyotiJauhari/blob/master/gif/girlGOcodeojoo.gif" width="400px" height = "200px" />
 
 
 - ⚡ Keenly interested in learning new technologies 👩‍💻  and always open to new opportunities.
