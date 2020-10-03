@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ---
 
+### About me: 🤗😀
+
 - ⚡ Keenly interested in learning new technologies 👩‍💻  and always open to new opportunities.
 
 - Took my first step in Open Source with GSSoC 2020 as Participant and Campus Ambassador. ⭐
