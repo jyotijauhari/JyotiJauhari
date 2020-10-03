@@ -44,8 +44,12 @@ Here are some ideas to get you started:
 
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)-->
 
+**Github Stats:**
 
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=JyotiJauhari&hide=stars&show_icons=true&line_height=48">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiJauhari&count_private=true">
 
-![Jyoti's github stats](https://github-readme-stats.vercel.app/api?username=JyotiJauhari&show_icons=true&hide_border=true)
-<br>
-![Jyoti's repo details](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiJauhari&count_private=true&show_icons=truehow_icons=true)
+</p>
+
