@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Open Source Contribution.
 
-- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-JyotiJauhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/) [![Gmail Badge](https://img.shields.io/badge/-JyotiJauhari-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyotijauhari222@gmail.com)](mailto:jyotijauhari222@gmail.com)
+- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-JyotiJauhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)
 
 - ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁, loves to look at ⭐.
 
