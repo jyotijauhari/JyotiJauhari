@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-JyotiJauhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)
 
-- ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁, loves to look at ⭐.
+<!--- ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁, loves to look at ⭐. --->
 
 
 ---
