@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on more Open Source Projects.
 
-- 🤔 I’m looking for help with GSoC 2021, Competitive Programming and Hackathons.
+- 🤔 I’m looking for help in Competitive Programming and Hackathons.
 
 - 💬 Ask me about Open Source Contribution.
 
