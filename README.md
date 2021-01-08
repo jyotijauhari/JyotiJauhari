@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 <!--- ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁, loves to look at ⭐. --->
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JyotiJauhari) 
+
 
 ---
 
