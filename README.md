@@ -1,5 +1,5 @@
 
-### ![Hi](Hi.gif)  👋  Jyoti Jauhari 👩‍💻 
+### <img src="https://github.com/JyotiJauhari/JyotiJauhari/blob/master/gif/Hi.gif" />  👋  Jyoti Jauhari 👩‍💻 
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)](https://github.com/JyotiJauhari)
