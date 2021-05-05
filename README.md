@@ -3,9 +3,9 @@
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)](https://github.com/JyotiJauhari)
-[![HitCount](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari.svg)](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JyotiJauhari) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JyotiJauhari)
+<!-- [![HitCount](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari.svg)](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari) -->
 
 
 <!--
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 - Took my first step in Open Source with GSSoC 2020 as Participant and Campus Ambassador. ⭐
 
-- 🔭 I Worked as Project Mentor as SCI 2020, Sanscript Autumn of Code 2020, Open-Source Contributor as PSoC Summer of Code, Interstship 2.0 and SDE Intern at Cloud Counselage.
+- 🔭 I worked as Project Mentor as SCI 2020, Sanscript Autumn of Code 2020, Open-Source Contributor as PSoC Summer of Code, Interstship 2.0 and SDE Intern at Cloud Counselage.
 
-- 🌱 I’m currently learning Android Development 👩‍💻✨
+- 🌱 I’m currently learning and solving DSA problems 👩‍💻✨
 
 - 👯 I’m looking to collaborate on more Open Source Projects.
 
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="c-plus-plus" width="40" height="40"/>
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" alt="c" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/mysql.svg" alt="mysql" width="40" height="40"/>
- <img src="https://github.com/gilbarbara/logos/blob/master/logos/dialogflow.svg" alt="dialogflow" width="40" height="40"/> 
-  <img src="https://github.com/gilbarbara/logos/blob/master/logos/azure-icon.svg" alt="azure" width="40" height="40"/>
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/html-5.svg" alt="html" width="40" height="40"/>
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/css-3.svg" alt="css" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
+<!--<img src="https://github.com/gilbarbara/logos/blob/master/logos/azure-icon.svg" alt="azure" width="40" height="40"/>
+ <img src="https://github.com/gilbarbara/logos/blob/master/logos/dialogflow.svg" alt="dialogflow" width="40" height="40"/> -->
 
 ---
 
