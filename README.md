@@ -1,5 +1,5 @@
 
-### <img src="https://github.com/JyotiJauhari/JyotiJauhari/blob/master/gif/Hi.gif" />  👋  Jyoti Jauhari 👩‍💻 
+### 👋  Jyoti Jauhari 👩‍💻 
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)](https://github.com/JyotiJauhari)
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I worked as Project Mentor as SCI 2020, Sanscript Autumn of Code 2020, Open-Source Contributor as PSoC Summer of Code, Interstship 2.0 and SDE Intern at Cloud Counselage.
 
-- 🌱 I’m currently learning and solving DSA problems 👩‍💻✨
+- 🌱 I’m currently learning android jetpack compose for fun 👩‍💻✨
 
 - 👯 I’m looking to collaborate on more Open Source Projects.
 
