@@ -1,17 +1,13 @@
-
+<img align="center" alt="GIF" src="https://github.com/JyotiJauhari/JyotiJauhari/blob/master/gif/girlGOcodeojoo.gif" width="400px" height = "200px" />
+<!--
 ### 👋  Jyoti Jauhari 👩‍💻 
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)](https://github.com/JyotiJauhari)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JyotiJauhari) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JyotiJauhari)
-<!-- [![HitCount](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari.svg)](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari) -->
+[![HitCount](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari.svg)](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari)
 
-
-<!--
-**JyotiJauhari/JyotiJauhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 
 <img align="center" alt="GIF" src="https://github.com/JyotiJauhari/JyotiJauhari/blob/master/gif/girlGOcodeojoo.gif" width="400px" height = "200px" />
 
@@ -33,7 +29,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Open Source Contribution and Android.
 
-<!--- 📫 How to reach me:      <a href="mailto:jyotijauhari222@gmail.com?hl="en"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> --->
 ---
 
 ## Tech Stack 💻
@@ -48,8 +43,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/html-5.svg" alt="html" width="40" height="40"/>
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/css-3.svg" alt="css" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
-<!--<img src="https://github.com/gilbarbara/logos/blob/master/logos/azure-icon.svg" alt="azure" width="40" height="40"/>
- <img src="https://github.com/gilbarbara/logos/blob/master/logos/dialogflow.svg" alt="dialogflow" width="40" height="40"/> -->
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/azure-icon.svg" alt="azure" width="40" height="40"/>
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/dialogflow.svg" alt="dialogflow" width="40" height="40"/>
 
 ---
 
@@ -85,3 +80,5 @@ Here are some ideas to get you started:
     <a target="_blank"href="https://twitter.com/techyexito"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:jyotijauhari222@gmail.com?hl="en"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
+  
+  -->
