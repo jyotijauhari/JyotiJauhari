@@ -1,6 +1,17 @@
+### Hello,👋 I am Jyoti  
+
 <img align="center" alt="GIF" src="https://github.com/JyotiJauhari/JyotiJauhari/blob/master/gif/girlGOcodeojoo.gif" width="400px" height = "200px" />
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)](https://github.com/JyotiJauhari)
+[![OP](https://img.shields.io/badge/%F0%9F%94%8E-Curious-purple)](https://github.com/JyotiJauhari)
+[![OP](https://img.shields.io/badge/%F0%9F%92%A5-Learner-blue)](https://github.com/JyotiJauhari) 
+
+
+
+
 <!--
-### 👋  Jyoti Jauhari 👩‍💻 
+
+
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)](https://github.com/JyotiJauhari)
