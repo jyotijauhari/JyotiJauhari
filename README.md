@@ -1,44 +1,42 @@
-### Hello,👋 I am Jyoti  
+# Hi there 👋
+
+I'm Jyoti. Currently working as Software developer (mostly backend) at ThoughtWorks.
 
 <img align="center" alt="GIF" src="https://github.com/JyotiJauhari/JyotiJauhari/blob/master/gif/girlGOcodeojoo.gif" width="400px" height = "200px" />
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)](https://github.com/JyotiJauhari)
-[![OP](https://img.shields.io/badge/%F0%9F%94%8E-Curious-purple)](https://github.com/JyotiJauhari)
-[![OP](https://img.shields.io/badge/%F0%9F%92%A5-Learner-blue)](https://github.com/JyotiJauhari) 
+##
+
+-  I love to discuss about architecture diagrams, system design and designing complex systems.
+-  Here Building stuffs and experimenting
+-  Read out my blogs [here](https://medium.com/@techyexito) (I am trying to be consistent :P )
+
+Fun Fact: 
+- Mostly found asking Questions
+
+I believe: 
+
+ ``Progress is progress no matter how small it is. Progress not Perfection.``
 
 
+## Things I use on a daily basis
 
+<p align="left">  
+<p> 
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=15d8fe"> 
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java"> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=659b60">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MicrosoftAzure&svgfill=15d8fe"> 
+ 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&svgfill=15d8fe"> 
+</p>
 
 <!--
-
-
-
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=JyotiJauhari.visitor-badge)](https://github.com/JyotiJauhari)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JyotiJauhari) 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JyotiJauhari)
-[![HitCount](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari.svg)](http://hits.dwyl.com/JyotiJauhari/JyotiJauhari)
-
-
-<img align="center" alt="GIF" src="https://github.com/JyotiJauhari/JyotiJauhari/blob/master/gif/girlGOcodeojoo.gif" width="400px" height = "200px" />
-
----
-
-### About me: 🤗😀
-
-- ⚡ Keenly interested in learning new technologies 👩‍💻  and always open to new opportunities.
-
-- Took my first step in Open Source with GSSoC 2020 as Participant and Campus Ambassador. ⭐
-
-- 🔭 I worked as Project Mentor as SCI 2020, Sanscript Autumn of Code 2020, Open-Source Contributor as PSoC Summer of Code, Interstship 2.0 and SDE Intern at Cloud Counselage.
-
-- 🌱 I’m currently learning android jetpack compose for fun 👩‍💻✨
-
-- 👯 I’m looking to collaborate on more Open Source Projects.
-
-- 🤔 I’m looking for help in Competitive Programming and Hackathons.
-
-- 💬 Ask me about Open Source Contribution and Android.
 
 ---
 
